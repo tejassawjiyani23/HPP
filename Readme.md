@@ -1,4 +1,3 @@
-
 # House Price Prediction Using Machine Learning: A Comparative Analysis
 
 ## 1. Project Overview
